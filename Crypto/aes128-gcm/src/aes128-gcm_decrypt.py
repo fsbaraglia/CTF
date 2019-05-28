@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-htb_aes128-gcm_decrypt.py
+aes128-gcm_decrypt.py
 Copyright (C) 2019 fsbaraglia
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
@@ -77,8 +77,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-'''
-pip3 install pycryptodomex==3.8.1
-pip3 install termcolor
-'''
