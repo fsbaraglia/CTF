@@ -7,6 +7,7 @@ Usage: `python3 aes128-gcm_decrypt.py -e <ENCRYPTED TEXT> -m <Custom Password>`
 pip3 install -r requirements.txt
 
 ## Manual Install dependencies
+```
 pip3 install pycryptodomex==3.8.1
 pip3 install termcolor
-
+```
